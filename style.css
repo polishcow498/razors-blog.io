@@ -1,0 +1,25 @@
+html{
+    background-color: orange;
+}
+h1{
+    -webkit-text-fill-color: orange;
+    background-color: blueviolet;
+}
+body{
+    -webkit-text-fill-color: orange;
+    background-color: blueviolet;
+}
+@media screen and (min-width: 480px) {
+    body {
+      background-color: lightgreen;
+    }
+  }
+@media  screen and (min-width: 830px){
+    body{
+        background-color: blueviolet;
+    }
+}
+    
+
+    
+
